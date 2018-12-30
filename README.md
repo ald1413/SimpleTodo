@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+Add a warning to the user when he deletes an item asking if they are sure whether they want to delete it or not.
 
 ## Video Walkthrough
 
